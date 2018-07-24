@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "b6508ffeb95d1071a8d4af8dd9a111bb"
+build_time: [1532421638, 507935000]
+inputs:
+  "/Users/lifan/Developer/Concentration/Concentration/ViewController.swift": [1532421638, 0]
+  "/Users/lifan/Developer/Concentration/Concentration/Supporting Files/AppDelegate.swift": [1532400549, 0]

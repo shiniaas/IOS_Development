@@ -1,0 +1,508 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "13Concentration14ViewControllerC"
+provides-member:
+- ["13Concentration14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "cardButtons"
+- "flipCountLable"
+- "touchCard"
+depends-top-level:
+- !private "+="
+- !private "=="
+- "Array"
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "String"
+- "StringLiteralType"
+- "UIButton"
+- !private "UIControlState"
+- "UILabel"
+- "UIViewController"
+- "UnicodeScalarType"
+- "ViewController"
+- !private "_ColorLiteralType"
+- !private "print"
+depends-member:
+- !private ["Sa", "index"]
+- !private ["Sa", "subscript"]
+- !private ["s23BidirectionalCollectionP", "index"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "currentTitle"]
+- !private ["So15CALayerDelegateP", "setTitle"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "UIControlState"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "cardButtons"]
+- !private ["s7CVarArgP", "currentTitle"]
+- !private ["s7CVarArgP", "emojiChoices"]
+- !private ["s7CVarArgP", "flipCard"]
+- !private ["s7CVarArgP", "flipCount"]
+- !private ["s7CVarArgP", "flipCountLable"]
+- !private ["s7CVarArgP", "index"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "setTitle"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s10CollectionP", "index"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "subscript"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "UIControlState"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "cardButtons"]
+- !private ["s28CustomDebugStringConvertibleP", "currentTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "emojiChoices"]
+- !private ["s28CustomDebugStringConvertibleP", "flipCard"]
+- !private ["s28CustomDebugStringConvertibleP", "flipCount"]
+- !private ["s28CustomDebugStringConvertibleP", "flipCountLable"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "index"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "UIControlState"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "cardButtons"]
+- !private ["s23CustomStringConvertibleP", "currentTitle"]
+- !private ["s23CustomStringConvertibleP", "emojiChoices"]
+- !private ["s23CustomStringConvertibleP", "flipCard"]
+- !private ["s23CustomStringConvertibleP", "flipCount"]
+- !private ["s23CustomStringConvertibleP", "flipCountLable"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "setTitle"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "index"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "index"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "UIControlState"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "backgroundColor"]
+- !private ["s9EquatableP", "cardButtons"]
+- !private ["s9EquatableP", "currentTitle"]
+- !private ["s9EquatableP", "emojiChoices"]
+- !private ["s9EquatableP", "flipCard"]
+- !private ["s9EquatableP", "flipCount"]
+- !private ["s9EquatableP", "flipCountLable"]
+- !private ["s9EquatableP", "index"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "normal"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "setTitle"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s9EquatableP", "text"]
+- !private ["s25ExpressibleByArrayLiteralP", "index"]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "UIControlState"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "backgroundColor"]
+- !private ["s8HashableP", "cardButtons"]
+- !private ["s8HashableP", "currentTitle"]
+- !private ["s8HashableP", "emojiChoices"]
+- !private ["s8HashableP", "flipCard"]
+- !private ["s8HashableP", "flipCount"]
+- !private ["s8HashableP", "flipCountLable"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "setTitle"]
+- !private ["s8HashableP", "text"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "index"]
+- !private ["s17MutableCollectionP", "subscript"]
+- !private ["So8NSCodingP", "UIControlState"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "cardButtons"]
+- !private ["So8NSCodingP", "currentTitle"]
+- !private ["So8NSCodingP", "emojiChoices"]
+- !private ["So8NSCodingP", "flipCard"]
+- !private ["So8NSCodingP", "flipCount"]
+- !private ["So8NSCodingP", "flipCountLable"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "setTitle"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So26NSExtensionRequestHandlingP", "UIControlState"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "cardButtons"]
+- !private ["So26NSExtensionRequestHandlingP", "emojiChoices"]
+- !private ["So26NSExtensionRequestHandlingP", "flipCard"]
+- !private ["So26NSExtensionRequestHandlingP", "flipCount"]
+- !private ["So26NSExtensionRequestHandlingP", "flipCountLable"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "UIControlState"]
+- ["So8NSObjectC", "UILabel"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- ["So8NSObjectC", "cardButtons"]
+- !private ["So8NSObjectC", "currentTitle"]
+- ["So8NSObjectC", "emojiChoices"]
+- ["So8NSObjectC", "flipCard"]
+- ["So8NSObjectC", "flipCount"]
+- ["So8NSObjectC", "flipCountLable"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "setTitle"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "touchCard"]
+- !private ["So16NSObjectProtocolP", "UIControlState"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "backgroundColor"]
+- !private ["So16NSObjectProtocolP", "cardButtons"]
+- !private ["So16NSObjectProtocolP", "currentTitle"]
+- !private ["So16NSObjectProtocolP", "emojiChoices"]
+- !private ["So16NSObjectProtocolP", "flipCard"]
+- !private ["So16NSObjectProtocolP", "flipCount"]
+- !private ["So16NSObjectProtocolP", "flipCountLable"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "setTitle"]
+- !private ["So16NSObjectProtocolP", "text"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["s22RandomAccessCollectionP", "index"]
+- !private ["s22RandomAccessCollectionP", "subscript"]
+- !private ["s26RangeReplaceableCollectionP", "index"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "subscript"]
+- !private ["s16RawRepresentableP", "normal"]
+- !private ["s8SequenceP", "index"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s10SetAlgebraP", "normal"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "backgroundColor"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "currentTitle"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "currentTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "currentTitle"]
+- !private ["So12UIAppearanceP", "setTitle"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "UIControlState"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "cardButtons"]
+- !private ["So21UIAppearanceContainerP", "currentTitle"]
+- !private ["So21UIAppearanceContainerP", "emojiChoices"]
+- !private ["So21UIAppearanceContainerP", "flipCard"]
+- !private ["So21UIAppearanceContainerP", "flipCount"]
+- !private ["So21UIAppearanceContainerP", "flipCountLable"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "setTitle"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So8UIButtonC", "backgroundColor"]
+- !private ["So8UIButtonC", "currentTitle"]
+- !private ["So8UIButtonC", "setTitle"]
+- !private ["So18UIContentContainerP", "UIControlState"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "cardButtons"]
+- !private ["So18UIContentContainerP", "emojiChoices"]
+- !private ["So18UIContentContainerP", "flipCard"]
+- !private ["So18UIContentContainerP", "flipCount"]
+- !private ["So18UIContentContainerP", "flipCountLable"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "backgroundColor"]
+- !private ["So9UIControlC", "currentTitle"]
+- !private ["So9UIControlC", "setTitle"]
+- !private ["SC14UIControlStateV", "normal"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "currentTitle"]
+- !private ["So17UICoordinateSpaceP", "setTitle"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "currentTitle"]
+- !private ["So13UIDynamicItemP", "setTitle"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "UIControlState"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "cardButtons"]
+- !private ["So18UIFocusEnvironmentP", "currentTitle"]
+- !private ["So18UIFocusEnvironmentP", "emojiChoices"]
+- !private ["So18UIFocusEnvironmentP", "flipCard"]
+- !private ["So18UIFocusEnvironmentP", "flipCount"]
+- !private ["So18UIFocusEnvironmentP", "flipCountLable"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "setTitle"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "currentTitle"]
+- !private ["So11UIFocusItemP", "setTitle"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIControlState"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "cardButtons"]
+- !private ["So30UIPasteConfigurationSupportingP", "currentTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "emojiChoices"]
+- !private ["So30UIPasteConfigurationSupportingP", "flipCard"]
+- !private ["So30UIPasteConfigurationSupportingP", "flipCount"]
+- !private ["So30UIPasteConfigurationSupportingP", "flipCountLable"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "setTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "UIControlState"]
+- ["So11UIResponderC", "UILabel"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- ["So11UIResponderC", "cardButtons"]
+- !private ["So11UIResponderC", "currentTitle"]
+- ["So11UIResponderC", "emojiChoices"]
+- ["So11UIResponderC", "flipCard"]
+- ["So11UIResponderC", "flipCount"]
+- ["So11UIResponderC", "flipCountLable"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "setTitle"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "touchCard"]
+- !private ["So30UIResponderStandardEditActionsP", "UIControlState"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "cardButtons"]
+- !private ["So30UIResponderStandardEditActionsP", "currentTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "emojiChoices"]
+- !private ["So30UIResponderStandardEditActionsP", "flipCard"]
+- !private ["So30UIResponderStandardEditActionsP", "flipCount"]
+- !private ["So30UIResponderStandardEditActionsP", "flipCountLable"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "setTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "backgroundColor"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "currentTitle"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitle"]
+- !private ["So16UIStateRestoringP", "UIControlState"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "cardButtons"]
+- !private ["So16UIStateRestoringP", "emojiChoices"]
+- !private ["So16UIStateRestoringP", "flipCard"]
+- !private ["So16UIStateRestoringP", "flipCount"]
+- !private ["So16UIStateRestoringP", "flipCountLable"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So18UITraitEnvironmentP", "UIControlState"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "cardButtons"]
+- !private ["So18UITraitEnvironmentP", "currentTitle"]
+- !private ["So18UITraitEnvironmentP", "emojiChoices"]
+- !private ["So18UITraitEnvironmentP", "flipCard"]
+- !private ["So18UITraitEnvironmentP", "flipCount"]
+- !private ["So18UITraitEnvironmentP", "flipCountLable"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "setTitle"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So6UIViewC", "backgroundColor"]
+- !private ["So6UIViewC", "currentTitle"]
+- !private ["So6UIViewC", "setTitle"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIButton"]
+- !private ["So16UIViewControllerC", "UIControlState"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "cardButtons"]
+- ["So16UIViewControllerC", "emojiChoices"]
+- ["So16UIViewControllerC", "flipCard"]
+- ["So16UIViewControllerC", "flipCount"]
+- ["So16UIViewControllerC", "flipCountLable"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "touchCard"]
+- ["13Concentration14ViewControllerC", "String"]
+- ["13Concentration14ViewControllerC", "UIButton"]
+- !private ["13Concentration14ViewControllerC", "UIControlState"]
+- ["13Concentration14ViewControllerC", "UILabel"]
+- ["13Concentration14ViewControllerC", "cardButtons"]
+- ["13Concentration14ViewControllerC", "deinit"]
+- ["13Concentration14ViewControllerC", "emojiChoices"]
+- ["13Concentration14ViewControllerC", "flipCard"]
+- ["13Concentration14ViewControllerC", "flipCount"]
+- ["13Concentration14ViewControllerC", "flipCountLable"]
+- ["13Concentration14ViewControllerC", "init"]
+- !private ["13Concentration14ViewControllerC", "print"]
+- ["13Concentration14ViewControllerC", "touchCard"]
+- !private ["s14_ArrayProtocolP", "index"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "currentTitle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setTitle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s24_DestructorSafeContainerP", "index"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIControlState"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cardButtons"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "emojiChoices"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "flipCard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "flipCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "flipCountLable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "index"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "s9OptionSetP"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- "s8SequenceP"
+- !private "s10SetAlgebraP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "SC14UIControlStateV"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "13Concentration14ViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "5eed12ce616b427fda78153fd1ffd600"
