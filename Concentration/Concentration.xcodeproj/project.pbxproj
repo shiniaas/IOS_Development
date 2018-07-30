@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE603C5221089611002C96EB /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE603C5121089611002C96EB /* Concentration.swift */; };
+		CE603C54210896ED002C96EB /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE603C53210896ED002C96EB /* Card.swift */; };
 		CED776AE2106CB2500627CA7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED776AD2106CB2500627CA7 /* AppDelegate.swift */; };
 		CED776B02106CB2500627CA7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED776AF2106CB2500627CA7 /* ViewController.swift */; };
 		CED776B32106CB2500627CA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED776B12106CB2500627CA7 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE603C5121089611002C96EB /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		CE603C53210896ED002C96EB /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		CED776AA2106CB2500627CA7 /* Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CED776AD2106CB2500627CA7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CED776AF2106CB2500627CA7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +60,8 @@
 			children = (
 				CED776AF2106CB2500627CA7 /* ViewController.swift */,
 				CED776B12106CB2500627CA7 /* Main.storyboard */,
+				CE603C5121089611002C96EB /* Concentration.swift */,
+				CE603C53210896ED002C96EB /* Card.swift */,
 				CED776BF2107028C00627CA7 /* Supporting Files */,
 				CED776B92106CB2A00627CA7 /* Info.plist */,
 			);
@@ -145,6 +151,8 @@
 			files = (
 				CED776B02106CB2500627CA7 /* ViewController.swift in Sources */,
 				CED776AE2106CB2500627CA7 /* AppDelegate.swift in Sources */,
+				CE603C5221089611002C96EB /* Concentration.swift in Sources */,
+				CE603C54210896ED002C96EB /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
